@@ -1,5 +1,5 @@
 {
-    "name": "ruoxiao-zh\/easydouyin",
+    "name": "larkit\/douyin",
     "description": "douyin open platform sdk",
     "license": "MIT",
     "authors": [
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "RuoxiaoZh\\Easydouyin\\": "src"
+            "Douyin\\Open\\": "src"
         }
     }
 }
